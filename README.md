@@ -1,13 +1,19 @@
-# custom-diffusion-
-Retrained Stable Diffusion 1.5 model with my college (aissms) logo
-With this diffusion model you can create images with aissms logo init 
-Copy tis model into your gdrive : https://drive.google.com/file/d/1njsGzNWXVwNwCzcqP10LArzwHNaNT3Zz/view?usp=drivesdvisit this colab book : 
-https://colab.research.google.com/drive/1l7TBwQKXIS5oIf6F24lQjp3VtofwSVwr?usp=sharing
-In colab run :
-    1. Import gdrive, give permissions 
-    2. Install dependencies 
-    3. Test model, select custom path
-    4. On the left side click on file option and  you will be able to access your gdrive, copy the path of copied model
-    5. Paste the path of the model
-The model will booth up in few mins and a gradio link will be generated 
-Visit the gradio link and use the model 
+# Custom Diffusion with College Logo
+
+We have retrained the Stable Diffusion 1.5 model to incorporate the logo of our college, AISSMS. With this customized diffusion model, you can now create images with the AISSMS logo embedded in them.
+
+To access this model, please follow the steps below:
+
+1. Copy the model into your Google Drive by clicking on the following link: [Model Link](https://drive.google.com/file/d/1njsGzNWXVwNwCzcqP10LArzwHNaNT3Zz/view?usp=drivesd).
+
+2. Open the provided Colab notebook by visiting this link: [Colab Notebook Link](https://colab.research.google.com/drive/1l7TBwQKXIS5oIf6F24lQjp3VtofwSVwr?usp=sharing).
+
+3. Run the Colab notebook and follow the instructions provided within it. This will involve importing Google Drive, granting necessary permissions, and installing any required dependencies.
+
+4. Test the model by selecting a custom path. On the left side of the notebook, click on the "File" option to access your Google Drive. Copy the path of the previously copied model.
+
+5. Paste the path of the model into the appropriate location in the Colab notebook.
+
+After a few minutes, the model will finish booting up, and a Gradio link will be generated. Visit the provided Gradio link to utilize the model and create images with the AISSMS logo.
+
+Enjoy using the model and have fun exploring its capabilities!

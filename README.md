@@ -4,7 +4,7 @@ We have retrained the Stable Diffusion 1.5 model to incorporate the logo of our 
 
 To access this model, please follow the steps below:
 
-1. Copy the model into your Google Drive by clicking on the following link: [Model Link](https://drive.google.com/file/d/1njsGzNWXVwNwCzcqP10LArzwHNaNT3Zz/view?usp=drivesd).
+1. Copy the model into your Google Drive by clicking on the following link: [Model Link](https://drive.google.com/file/d/1njsGzNWXVwNwCzcqP10LArzwHNaNT3Zz/view?usp=drivesdk).
 
 2. Open the provided Colab notebook by visiting this link: [Colab Notebook Link](https://colab.research.google.com/drive/1l7TBwQKXIS5oIf6F24lQjp3VtofwSVwr?usp=sharing).
 
